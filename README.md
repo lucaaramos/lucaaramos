@@ -3,6 +3,7 @@
 Soy Desarrollador Web Full Stack. Estudie en el bootcamp Soy Henry, en el cual aprendi tecnologías web como React JS, Redux, Node JS, Express.js, Javascript, Sequelize, PostgreSQL, HTML, CSS.
 
 Estoy en busqueda de mi primer empleo IT. Me apasiona la programacion y siempre me gusta estar actualizado y aprender tecnologias nuevas. Soy profesional al trabajar, y me relaciono muy bien con mi equipo de trabajo. Me gusta auydar a quien lo necesite, escuchar y poder dar consejos. 
+
 👉Podés contactarte conmigo a través de 
 e-mail: lucaramos99@gmail.com
 Linkedin: https://www.linkedin.com/in/luca-ramos-881038215/
