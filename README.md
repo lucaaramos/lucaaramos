@@ -1,14 +1,15 @@
-### Hola, mi nombre es Luca 👋🏻👨🏻‍💻
+### Hola!! 👋🏻👨🏻‍💻
+Soy Luca, programador web y manejo tecnologias como React, NodeJS, Express, MySQL, MongoDB, Golang, entre otras. Me forme como FullStack, pero me inclino mas a Back-end.
+Soy un apasionado del desarrollo de software, estoy constantemente aprendiendo tecnologias nuevas, mejorando mis practicas y logica en programacion. Me considero una persona responsable y eficiente, que tiene la constancia para alcanzar cualquier meta que se proponga. 
+En cuanto a mis estudios realice un el bootcamp Henry, el cual me brindo las herramientas para ser el programador de hoy en dia. Ademas curso una tecnicatura en desarrollor web en la Universidad de San Martin. 
+Con respecto a mi experiencia laboral, me desempeño como freelance, realizo paginas web, implementaciones de login, creacion de api's, etc. Ademas he realizado varios trabajos de desarrollo web en equipo con otros programadores de mayor experiencia que la mia, del los cuales aprendi mucho y pude comprobar mi excelente trabajo en equipo. 
+Gracias por haberme leido, cualquier cosa puede contactarme para alguna propuesta laboral.
 
-Soy Desarrollador Web Full Stack. Estudie en el bootcamp Soy Henry, en el cual aprendi tecnologías web como React JS, Redux, Node JS, Express.js, Javascript, Sequelize, PostgreSQL, HTML, CSS.
+GitHub: https://github.com/lucaaramos
 
-Estoy en busqueda de mi primer empleo IT. Me apasiona la programacion y siempre me gusta estar actualizado y aprender tecnologias nuevas. Soy profesional al trabajar, y me relaciono muy bien con mi equipo de trabajo. Me gusta auydar a quien lo necesite, escuchar y poder dar consejos. 
-
-👉Podés contactarte conmigo a través de 
-
-e-mail: lucaramos99@gmail.com
-
-Linkedin: https://www.linkedin.com/in/luca-ramos-881038215/
+👉 Contacto
+Email: lucaramos99@gmail.com
+Tel: +54 11-3101-1812
 <!--
 **lucaaramos/lucaaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
