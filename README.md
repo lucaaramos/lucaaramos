@@ -1,5 +1,5 @@
 ### Hola!! 👋🏻👨🏻‍💻
-Soy Luca, programador web y manejo tecnologias como React, NodeJS, Express, MySQL, MongoDB, Golang, entre otras. Me forme como FullStack, pero me inclino mas a Back-end.
+Soy Luca, programador web y manejo tecnologias como React, NodeJS, Express, MySQL, MongoDB, Golang, entre otras. Me forme como FullStack, asi que puedo trabajar tanto en back-end como en front-end.
 Soy un apasionado del desarrollo de software, estoy constantemente aprendiendo tecnologias nuevas, mejorando mis practicas y logica en programacion. Me considero una persona responsable y eficiente, que tiene la constancia para alcanzar cualquier meta que se proponga. 
 En cuanto a mis estudios realice un el bootcamp Henry, el cual me brindo las herramientas para ser el programador de hoy en dia. Ademas curso una tecnicatura en desarrollor web en la Universidad de San Martin. 
 Con respecto a mi experiencia laboral, me desempeño como freelance, realizo paginas web, implementaciones de login, creacion de api's, etc. Ademas he realizado varios trabajos de desarrollo web en equipo con otros programadores de mayor experiencia que la mia, del los cuales aprendi mucho y pude comprobar mi excelente trabajo en equipo. 
