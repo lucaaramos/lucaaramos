@@ -1,5 +1,5 @@
 ### Hola!! 👋🏻👨🏻‍💻
-Soy desarrollador Back-End ofrezco soluciones de desarrollo con lenguajes como JS, Python y Golang. Ademas trabajo con bases de datos relaciones y no relacionales como MySQL, Postgres y MongoDB. Tambien tengo experiencia con microservicios.
+Soy desarrollador BackEnd ofrezco soluciones de desarrollo con lenguajes como JS, Python y Golang. Ademas trabajo con bases de datos relaciones y no relacionales como MySQL, Postgres y MongoDB. Tambien tengo experiencia con microservicios.
 En cuanto a mis estudios, estoy cursando Ing Informatica en la UBA y estudio de forma autodidacta para mantenerme actualizado con las ultimas tecnologias.
 Gracias por haberme leido, cualquier cosa puede contactarme para alguna propuesta laboral.
 
