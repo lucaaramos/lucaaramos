@@ -3,11 +3,10 @@ Soy desarrollador BackEnd ofrezco soluciones de desarrollo con lenguajes como JS
 En cuanto a mis estudios, estoy cursando Ing Informatica en la UBA y estudio de forma autodidacta para mantenerme actualizado con las ultimas tecnologias.
 Gracias por haberme leido, cualquier cosa puede contactarme para alguna propuesta laboral.
 
-Portafolio: https://portafolio-lucaramos.netlify.app/
 
 👉 Contacto
-Email: lucaramos99@gmail.com
-Tel: +54 11-3101-1812
+- Email: lucaramos99@gmail.com
+- Tel: +54 11-3101-1812
 <!--
 **lucaaramos/lucaaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
