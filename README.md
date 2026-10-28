@@ -1,50 +1,30 @@
-# About Me
+# Hi there, I'm Luca 👋
 
-I am a backend developer with experience building APIs, microservices, and distributed systems. I focus on writing clean, maintainable, and scalable code, following solid architecture and design principles.
+**Backend Developer | Computer Engineering Student**
 
-I primarily work with Golang, Node.js, and Python, developing services that interact with databases, message queues, and external systems.
+I am a backend developer based in Buenos Aires, specializing in microservices, REST APIs, and event-driven architectures. Currently pursuing my degree in Computer Engineering, I focus on writing clean, maintainable, and scalable code while building services that interact seamlessly with distributed systems, databases, and message queues.
 
-### Main Technologies
-- Languages: Go, JavaScript, Python
-- Backend: Express.js, microservices architecture
-- Databases: MongoDB, MySQL
-- Messaging: RabbitMQ
-- Others: REST APIs, gRPC, JWT, structured logging
-### Core Expertise
-- Building robust and scalable APIs
-- Designing microservices and distributed systems
-- Event-driven architecture and messaging systems
-- Authentication and authorization handling
-- Business logic and transaction processing
-- Error handling and observability (logging, tracing)
-### Work Approach
-- I prioritize clean and maintainable code
-- Follow consistent project structures and conventions
-- Strong focus on validation, error handling, and logging
-- Performance and scalability oriented mindset
-- Experience working with asynchronous systems and queues
+### 🛠️ Main Technologies
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Currently
-- Improving software architecture skills
-- Deepening knowledge in distributed systems
-- Preparing for backend technical interviews
+### ⚙️ Core Expertise & Work Approach
+- **Architecture & Design:** Microservices, Distributed Systems, and Event-Driven Architecture.
+- **API Development:** REST APIs, gRPC, JWT Authentication, and third-party webhook integrations.
+- **Development Philosophy:** Strong emphasis on clean code, structured logging, strict validation, and transaction processing.
+- **Performance & Observability:** Performance-oriented mindset with a focus on comprehensive error handling, tracing, and asynchronous queues.
 
-### Contact
+### 🚀 Currently Exploring
+- Deepening my knowledge in **System Design** and software architecture patterns.
+- Exploring **AppSec, DevSecOps**, and secure coding practices.
+- Preparing for advanced backend technical interviews.
 
-Feel free to reach out via GitHub or LinkedIn.
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-ramos-881038215/)
-<!--
-**lucaaramos/lucaaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-ramos-881038215/)
